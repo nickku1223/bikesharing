@@ -47,3 +47,5 @@ Here we can see that overall the subscriber are more popular for New Yorkers. We
 The Citibike service in New York City are mostly used for short distance travels. Looking at gender breakdown of the customers, male has significantly higer usage than other genders. From the user type we can also see that subscribers are more popular than customers, which can mean that the service are used more by the locals than tourists. We also need to factor in the subway system in NYC, with the convenience of the public transportations, commute by car might not be the first choice for the locals, which can potentially be a possibility for the bikesharing service to be a popular choice in New York City.
 
 When it comes to if the business model would be able to apply to Des Moines, we have to also consider how the local travels, if the local mostly travel by cars, which can mean the public transportation might not be as convenience as NYC. If so, the distance for traveling using bikesharing service could be longer, which can potentially lower customers' willingness to use the service for the commute purpose.
+
+
